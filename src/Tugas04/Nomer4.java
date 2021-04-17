@@ -5,7 +5,7 @@ public class Nomer4 {
         int[] data = {25,7,9,13,3};
         printData(data);
         shellSort(data);
-        System.out.println("\nNur Halisah Fasya");
+        System.out.println("\nFattarizky");
         printData(data);
     }
     public static void printData(int data[]){
